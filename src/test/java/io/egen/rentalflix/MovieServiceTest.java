@@ -1,14 +1,8 @@
 package io.egen.rentalflix;
 
 import static org.junit.Assert.*;
-import static org.hamcrest.CoreMatchers.*;
-
 import java.util.*;
-
-import jdk.nashorn.internal.runtime.regexp.joni.constants.Arguments;
-
 import org.junit.After;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
